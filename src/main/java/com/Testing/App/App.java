@@ -15,4 +15,8 @@ public final class App {
         System.out.println("Hello World!");
         System.out.println(args[0]);
     }
+
+    public static void print(String txt){
+        System.out.println("Yea thats right");
+    }
 }
